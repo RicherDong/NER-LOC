@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/zzx/bf_ai/dyw/NER_LOC/ckpt/ner-19-299"
+all_model_checkpoint_paths: "/home/zzx/bf_ai/dyw/NER_LOC/ckpt/ner-19-299"

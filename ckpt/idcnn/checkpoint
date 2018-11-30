@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:/python_program/NER_LOC/ckpt/idcnn/ner-19-179"
+all_model_checkpoint_paths: "E:/python_program/NER_LOC/ckpt/idcnn/ner-19-179"
