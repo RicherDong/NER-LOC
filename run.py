@@ -217,10 +217,6 @@ class Run(object):
 
 
 # if __name__ == '__main__':
-#     # parser = argparse.ArgumentParser(description='BiLSTM-CRF, IDCNN For NER')
-#     # parser.add_argument('--type', type=str, default='train', help='train/line')
-#     # parser.add_argument('--model', type=str, default='IDCNN', help='IDCNN/BiLSTM')
-#     # args = parser.parse_args()
 #     main = main('online')
 
 
