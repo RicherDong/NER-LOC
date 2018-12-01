@@ -4,7 +4,8 @@
     (but later the simple change  hospital of Network Sample NER)
     
   USE：
-    #### train:
+   
+   #### train:
     
         open run.py following note: 
             model  is IDCNN or BILSTM
