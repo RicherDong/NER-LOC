@@ -4,15 +4,18 @@
     (but later the simple change  hospital of Network Sample NER)
     
   USE：
-    train:
+    #### train:
+    
         open run.py following note: 
             model  is IDCNN or BILSTM
             if __name__ == '__main__':
                 main = main('train', 'IDCNN')
+                
          run file:       
          python run.py
     
-  API service(use Flask):
+    
+  #### API service(use Flask):
       python api.py
    
    
