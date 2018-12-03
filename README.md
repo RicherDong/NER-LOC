@@ -6,7 +6,7 @@
     
   USE：
    
-   #### train:
+   ### train:
 
    开启注释：
    可使用模型选择：IDCNN or BILSTM
@@ -14,11 +14,11 @@
     if __name__ == '__main__':
         main = main('train', 'IDCNN')
 
-   run file:       
+  执行文件：      
    python run.py
     
     
-  #### API service(use Flask):
+  ### API service(use Flask):
       python api.py
    
    
