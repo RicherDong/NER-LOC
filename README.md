@@ -7,14 +7,15 @@
   USE：
    
    #### train:
-    
-        open run.py following note: 
-            model  is IDCNN or BILSTM
-            if __name__ == '__main__':
-                main = main('train', 'IDCNN')
-                
-         run file:       
-         python run.py
+
+   开启注释：
+   可使用模型选择：IDCNN or BILSTM
+   
+    if __name__ == '__main__':
+        main = main('train', 'IDCNN')
+
+   run file:       
+   python run.py
     
     
   #### API service(use Flask):
