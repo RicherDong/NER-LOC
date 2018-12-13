@@ -216,7 +216,8 @@ class Run(object):
 
 
 
+#如果是训练模型开启以下注释项执行项; 其中模型可选择IDCNN或者BILSTM
 # if __name__ == '__main__':
-#     main = main('online')
+#     main = Run('train', 'IDCNN')
 
 
