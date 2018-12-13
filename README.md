@@ -12,7 +12,7 @@
    可使用模型选择：IDCNN or BILSTM
    
     if __name__ == '__main__':
-        main = main('train', 'IDCNN')
+        main = Run('train', 'IDCNN')
 
   执行文件：      
    python run.py
